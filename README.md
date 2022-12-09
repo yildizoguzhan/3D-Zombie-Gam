@@ -1,2 +1,2 @@
-# 3D-Zombie-Gam
+# 3D-Zombie-Game(Zombie Land)
 3D survival FPS game
